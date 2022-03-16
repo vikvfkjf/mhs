@@ -1,0 +1,13 @@
+.van-notify{
+    height:60px;
+    line-height:60px;
+}
+
+.van-dialog{
+    width:90%;
+}
+
+.van-dialog__message{
+    font-size:28px;
+    line-height:80px;
+}
